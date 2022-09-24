@@ -2,7 +2,7 @@
 {
  width: 900px;
  border: 1px solid #000;
- height: 50px;
+ height: 100px;
  background-color: #3aa0ff;
  font-family: Helvetica, sans-serif;
  font-size: 13px;
@@ -18,7 +18,7 @@
 {
   list-style-type: none;
   display: inline;
-  margin-left: 25px;
+  margin-left: 50px;
 }
 #menu ul li a:link 
 {
